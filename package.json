@@ -1,0 +1,23 @@
+{
+  "name": "professional-portfolio-adds",
+  "version": "1.0.0",
+  "description": "## Description  Kristy's portfolio showcasing skills such as HTML, CSS with Flexbox to employers looking to fill a part-time or full-time position.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kristixxg/professional-portfolio-adds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kristixxg/professional-portfolio-adds/issues"
+  },
+  "homepage": "https://github.com/Kristixxg/professional-portfolio-adds#readme",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}

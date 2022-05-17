@@ -3,7 +3,7 @@
 ## Description 
 Kristy's portfolio showcasing skills such as HTML, CSS with Flexbox to employers looking to fill a part-time or full-time position.
 
-Link to the deployed application here: https://kristixxg.github.io/my-portfolio/
+Link to the deployed application here: https://kristixxg.github.io/professional-portfolio-adds/
 
 
 ## Table of Contents (Optional)
