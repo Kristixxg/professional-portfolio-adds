@@ -8,11 +8,11 @@
 }
 
 html {
- background-color: var(--darkblue);
+ background-color: rgb(49, 10, 112) ;
 }
 
 :root {
-    --darkblue: #162447;
+    --darkblue: #071a4b;
     --blue: #1F4068;
     --black: #1B1B2F;
     --red: #E43F5A;
