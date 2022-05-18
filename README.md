@@ -6,33 +6,17 @@ Kristy's portfolio showcasing skills such as HTML, CSS with Flexbox to employers
 Link to the deployed application here: https://kristixxg.github.io/professional-portfolio-adds/
 
 
-## Table of Contents (Optional)
+## Responsive Web Design
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+Below is a screenshot of my webpage on desk screen
 
 
-## Installation
-
-No other installation required. 
+Below is a screenshot of my webpage on tablet screen
 
 
-## Usage 
-
-Below is a screenshot of my application when the screen size is desk screen size. 
-
-![Alt text](assets/images/Screen%20Shot%202022-04-19%20at%2012.53.50%20AM.png)
-
-Below is a screenshot of my application when the screen size is tablet size. 
-
-![Alt text](assets/images/Screen%20Shot%202022-04-19%20at%2012.59.52%20AM.png)
+Below is a screenshot of my webpage on mobile screen
 
 
-Below is a screenshot of my application when the screen size is mobile size. 
-
-![Alt text](assets/images/Screen%20Shot%202022-04-19%20at%201.00.11%20AM.png)
 
 
 
