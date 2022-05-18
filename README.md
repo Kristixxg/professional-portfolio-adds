@@ -39,12 +39,18 @@ Below is a screenshot of my application when the screen size is mobile size.
 
 ## Credits
 
-1. Github icon made by Roundicons from www.flaticon.com.
-2. All photos were downloaded from Google.com 
+| Third Party Libraries|
+| ------------- |
+| [Flaticon](https://flaticon.com/) | 
+| [Google Front](https://fonts.googleapis.com)
 
 ## Technologies
 
-HTML, CSS and Flexbox
+| Technologies used|
+| ------------- |
+| HTML| 
+| CSS |
+
 
 
 ## License
