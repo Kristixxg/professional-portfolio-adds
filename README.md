@@ -33,6 +33,7 @@ Below is a screenshot of my webpage on mobile screen
 | ------------- |
 | HTML| 
 | CSS |
+| FLEXBOX |
 
 
 
