@@ -9,16 +9,15 @@ Link to the deployed application here: https://kristixxg.github.io/professional-
 ## Responsive Web Design
 
 Below is a screenshot of my webpage on desk screen
-
+<img src="./assets/images/Untitled_%20May%2018%2C%202022%201_09%20AM.gif" width=900px>
 
 Below is a screenshot of my webpage on tablet screen
 
+<img src="./assets/images/Screen%20Shot%202022-05-18%20at%201.14.24%20AM.png" width=500px>
 
 Below is a screenshot of my webpage on mobile screen
 
-
-
-
+<img src="./assets/images/Screen%20Shot%202022-05-18%20at%201.13.59%20AM.png" width=300px>
 
 
 ## Credits
